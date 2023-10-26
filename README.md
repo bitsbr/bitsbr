@@ -3,10 +3,6 @@
 <p align="center">
 
 
-> Waves is an open source [blockchain protocol](https://waves.tech/waves-protocol). <br/> 
-You can use it to build your own decentralized applications. Waves provides full blockchain ecosystem including smart contracts language called RIDE.
-
-
 BITSNODE node is a host connected to the blockchain network with the following functions:
 
 - Processing and validation of [transactions](https://docs.waves.tech/en/blockchain/transaction/transaction-validation)
