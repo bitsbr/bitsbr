@@ -14,7 +14,6 @@ BITSNODE node is a host connected to the blockchain network with the following f
 A quick introduction of the minimal setup you need to get a running node. 
 
 *Prerequisites:*
-- configuration file for a needed network from [here](https://github.com/bitsbr/bitsbr/tree/HEAD/node)
 - `bitsbr-all*.jar` file from [releases](https://github.com/bitsbr/bitsbr/releases) 
 
 Linux systems:
